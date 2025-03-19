@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.hidden {
+  display: none;
+}
+
+#chinese {
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+}
+
+#english,
+#pinyin,
+#eusage,
+#cusage {
+  font-size: 20px;
+  color: #333;
+}
